@@ -14,6 +14,13 @@
 - The project01 branch exists in your repository
 - The required 'project01' directory was not found at the root of the repository
 - A Rust project was found in the 'prime_factor_count' directory which appears to be your submission
+- **CRITICAL ISSUES WITH RECENT CHANGES:**
+  - You merged a "Project_2_NESW" branch into your project01 branch, which is completely inappropriate
+  - No actual changes were made to your project01 assignment, so no regrading is necessary
+  - The branch name "Project_2_NESW" does not follow the required format of "project##" (should be "project02")
+  - You have committed unnecessary files to the repository root including Cargo.toml, Cargo.lock, and the entire target/ directory
+  - The target/ directory should NEVER be committed as it contains regenerable binaries and wastes repository space
+  - Your repository structure is now a mess with mixed project files in the root directory
 
 ## Resubmission Instructions:
 To resubmit this assignment for full grading:
@@ -42,3 +49,5 @@ To resubmit this assignment for full grading:
    ```
 
 The assignment will be automatically regraded once these steps are completed.
+
+**IMPORTANT:** I will accept one more resubmission if you want a grade on this assignment. If you need assistance with rearranging the structure of both project01 and project02, please reach out to me. I will not do the work for you, but I will walk you through the steps to clean up your repository structure.
