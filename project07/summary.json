@@ -1,0 +1,13 @@
+{
+  "biggest_speed_improvement_min_per_km": 2.7325476992143667,
+  "fastest_pace_min_per_km": 9.64851485148515,
+  "improvement_run_indices": [
+    13,
+    14
+  ],
+  "longest_run_km": 13.8,
+  "longest_run_sec": 10302.0,
+  "mean_distance_km": 11.74,
+  "record_breaking_days": 2,
+  "std_dev_km": 1.1620671237067164
+}
