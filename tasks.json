@@ -1,0 +1,22 @@
+{
+  "recurring": [
+    {
+      "title": "Go to School",
+      "completed": true
+    },
+    {
+      "title": "Read Bible",
+      "completed": false
+    },
+    {
+      "title": "Study Rust",
+      "completed": true
+    }
+  ],
+  "daily": [
+    {
+      "title": "Call Mom",
+      "completed": true
+    }
+  ]
+}
