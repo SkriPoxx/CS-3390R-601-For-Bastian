@@ -8,7 +8,7 @@ Cost: ~75 credits (+ retries for moderation/backlog failures).
 |---|------|------|-------|
 | 1 | 00:00 | Distant establishing silhouette | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232131_1a43530a-9dc2-4fb8-b6b6-166f21c001e2.png |
 | 2 | 00:03 | Low-angle hero stride | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232134_9d1f7ceb-cc37-4299-9ff0-83353356b94b.png |
-| 3 | 00:05 | ECU chest gasping (re-rendering) | _pending_ |
+| 3 | 00:05 | ECU chest gasping | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232525_99d0c64c-b24d-41cc-9c43-e0e277bbf15d.png |
 | 4 | 00:07 | Side-profile face frosting | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232139_3e5ba1fa-4eec-4c94-84be-aae273be2fa5.png |
 | 5 | 00:09 | Body convulse/burst (death) | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232142_ad2a039e-680e-48d0-a8b6-9aaa8d1e67e3.png |
 | 6 | 00:11 | High-angle collapse + rebirth | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232144_a26e8e13-5a29-405d-a0dd-bfdd4350d1be.png |
@@ -25,11 +25,11 @@ Cost: ~75 credits (+ retries for moderation/backlog failures).
 | 17 | 00:37 | Full-body towering stride | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232214_5af6f4a9-fe7f-47bf-ac3b-92e1b3a68e42.png |
 | 18 | 00:39 | Dutch-tilt sharp turn | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232216_05825a69-26ee-4dcc-8fb3-87f5f7551b9b.png |
 | 19 | 00:41 | ECU swollen straining heart | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232219_6a0a8ca4-12fc-40fa-a2eb-cec825f30c13.png |
-| 20 | 00:44 | Face, eyes begin to change (re-rendering) | _pending_ |
+| 20 | 00:44 | Face, eyes begin to change | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232527_b136319b-db4c-4308-ac09-e68a42019749.png |
 | 21 | 00:46 | Macro eyes ballooning black | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232224_94ac4487-4069-4574-8591-94cf63b2e590.png |
 | 22 | 00:48 | ECU single black dome eye | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232226_9ba1d8ac-2bf7-425d-9eb5-7edde5b4740b.png |
 | 23 | 00:52 | Macro slit nostrils filtering dust | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232228_4543b1bb-6db8-4ac9-a633-0cd7bfc10974.png |
-| 24 | 00:56 | Squares shoulders, reveal sets up (re-rendering) | _pending_ |
+| 24 | 00:56 | Squares shoulders, reveal sets up | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232530_63a1b1c2-dc1e-4982-81a2-dd01f6263581.png |
 | 25 | 00:59 | FINAL REVEAL — power pose, dust | https://d8j0ntlcm91z4.cloudfront.net/user_3Fc0zaBvVapMdSRc97Y82G1cCuI/hf_20260628_232234_f588a9de-3421-425d-bbc4-9c89443b0cb0.png |
 
 _Prompts: `mars-25-image-prompts.md`._
